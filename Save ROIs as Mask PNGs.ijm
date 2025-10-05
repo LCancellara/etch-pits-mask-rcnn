@@ -1,7 +1,7 @@
 // Define the image filename
 var imageName = "YOUR_IMAGE";
 var imageExt = ".tif"
-var image = image + imageExt
+var image = imageName + imageExt
 
 selectImage(image);
 
